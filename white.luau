@@ -7,7 +7,7 @@ return {
 ["用户名"] = true,
 ["用户名"] = true,
 ["用户名"] = true,
-["用户名"] = true,
+["ajakajwlankaam"] = true,
 ["sheo_gaoks"] = true,
 ["DAQIAN25"] = true,
 ["mirendixiaozhang666"] = true,
